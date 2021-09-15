@@ -1,1 +1,1 @@
-# IGTI_ML_BOOTCAMP
+# Machine Learning Bootcamp - IGTI
